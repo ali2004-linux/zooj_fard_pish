@@ -10,6 +10,10 @@ end:
 	and enter numbers zooj or fard?
 	do save file or view ?
 	
+<br>
+#screenshout
+<img src="1.png">
+<br>
 #Done!
 
 <br>
